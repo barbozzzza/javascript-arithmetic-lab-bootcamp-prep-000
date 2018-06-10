@@ -16,9 +16,9 @@ function divide(a,b){
 
 function inc(n){
   
-  n = 255
+  n++
   
-  return n++
+  return n
 }
 
 function dec(n){
